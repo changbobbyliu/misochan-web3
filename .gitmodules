@@ -1,0 +1,3 @@
+[submodule "misochan-contract-evm"]
+	path = misochan-contract-evm
+	url = git@github.com-changbobbyliu:changbobbyliu/misochan-contract-evm.git
