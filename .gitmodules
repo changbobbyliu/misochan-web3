@@ -1,3 +1,6 @@
 [submodule "misochan-contract-evm"]
 	path = misochan-contract-evm
 	url = git@github.com-changbobbyliu:changbobbyliu/misochan-contract-evm.git
+[submodule "misochan-nextjs"]
+	path = misochan-nextjs
+	url = git@github.com-changbobbyliu:changbobbyliu/misochan-nextjs.git
